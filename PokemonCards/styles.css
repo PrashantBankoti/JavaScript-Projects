@@ -1,0 +1,30 @@
+.pokemon{
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.pokemon img{
+    display: block;
+}
+
+.card{
+    background-color: rgb(247, 247, 247);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    margin: 10px 20px;
+    border-radius: 50%;
+    
+}
+
+body{
+    background-color: #1fa3f5 ;
+}
+
+.heading{
+    background-color:#1fa3f5;
+    text-align: center;
+    color: #ffff;
+    font-weight: bolder;
+    
+}
