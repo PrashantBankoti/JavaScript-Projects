@@ -1,0 +1,19 @@
+.inlineTag{
+    display: inline;
+    padding: 5px;
+}
+
+.selectBox{
+    border-radius:10px;
+    border:1px solid #AAAAAA;
+}
+
+.counter select {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 15px;
+    height: 40px;
+    margin: 0 0 0 20px;
+    padding: 5px;
+    width: 60px;
+}
